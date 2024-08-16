@@ -7,17 +7,15 @@ const Approach = () => {
   return (
     <section className="w-full py-20">
       <h1 className="heading">
-        My <span className="text-purple">approach</span>
+        My <span className="text-purple">education</span>
       </h1>
       {/* remove bg-white dark:bg-black */}
       <div className="my-20 flex flex-col lg:flex-row items-center justify-center w-full gap-4">
         {/* add des prop */}
         <Card
-          title="Planning & Strategy"
-          icon={<AceternityIcon order="Phase 1" />}
-          des="We'll collaborate to map out your website's goals, target audience, 
-          and key functionalities. We'll discuss things like site structure, 
-          navigation, and content requirements."
+          title="Secondary School"
+          icon={<AceternityIcon order="Secondary School" />}
+          des="I studied accounting and finance during my time at SMK Taman Universiti, where I achieved 1 A+ and 4 A's in my SPM exams, excelling in subjects like Prinsip Perakaunan(Accounting), Ekonomi(Finance), Math, Sejarah(History), and Science. Additionally, I earned the LCCI Certificate with Distinction in Bookkeeping and Accounts Level 2."
         >
           <CanvasRevealEffect
             animationSpeed={5.1}
@@ -26,11 +24,9 @@ const Approach = () => {
           />
         </Card>
         <Card
-          title="Development & Progress Update"
-          icon={<AceternityIcon order="Phase 2" />}
-          des="Once we agree on the plan, I cue my lofi playlist and dive into
-          coding. From initial sketches to polished code, I keep you updated
-          every step of the way."
+          title="University"
+          icon={<AceternityIcon order="University" />}
+          des="I am a student at Southern University College], currently pursuing a Diploma in IT. During my studies, I served as the Treasurer of the E-Commerce Club in Semester 2 and then took on the role of Chairperson from Semester 3 until Semester 6. Additionally, starting from Semester 3, I also held the position of Treasurer for the Faculty In Information Technology(FEIT) Society, continuing in this role until Semester 6."
         >
           <CanvasRevealEffect
             animationSpeed={3}
@@ -48,11 +44,9 @@ const Approach = () => {
           {/* <div className="absolute inset-0 [mask-image:radial-gradient(400px_at_center,white,transparent)] bg-black/50 dark:bg-black/90" /> */}
         </Card>
         <Card
-          title="Development & Launch"
-          icon={<AceternityIcon order="Phase 3" />}
-          des="This is where the magic happens! Based on the approved design, 
-          I'll translate everything into functional code, building your website
-          from the ground up."
+          title="Skill"
+          icon={<AceternityIcon order="My Skill" />}
+          des="I have experience with Microsoft Power Apps, Python Selenium for automation, and have used Python to learn the fundamentals of machine learning. Additionally, I am skilled in developing applications using Flutter."
         >
           <CanvasRevealEffect
             animationSpeed={3}
