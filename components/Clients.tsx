@@ -2,13 +2,13 @@
 
 import React from "react";
 
-import { achievement } from "@/data";
+import { characteristics } from "@/data";
 //companies
 import { InfiniteMovingCards } from "./ui/InfiniteCards";
 
 const Clients = () => {
   return (
-    <section id="achievement" className="py-20">
+    <section id="characteristics" className="py-20">
       <h1 className="heading">
         Key Personal 
         <span className="text-purple"> Attributes</span>
@@ -20,7 +20,7 @@ const Clients = () => {
           className="h-[50vh] md:h-[30rem] rounded-md flex flex-col antialiased  items-center justify-center relative overflow-hidden"
         >
           <InfiniteMovingCards
-            items={achievement}
+            items={characteristics}
             direction="right"
             speed="slow"
           />

@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Some Achievement", link: "#achievement" },
+  { name: "Characteristics", link: "#characteristics" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -104,7 +104,7 @@ export const projects = [
   },
 ];
 
-export const achievement = [
+export const characteristics = [
   {
     quote:
       "My analytical skills are well-developed, as evidenced by my consistent academic performance in accounting, where I maintained an average of over 80% and ranked among the top three in my secondary school. Additionally, my love for hands-on crafts, such as puzzles and model-making, further showcases my meticulous nature and ability to focus on intricate details.",
