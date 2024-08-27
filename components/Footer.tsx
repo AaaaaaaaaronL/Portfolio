@@ -12,11 +12,11 @@ const Footer = () => {
           Are <span className="text-purple">you</span> interested in collaborating with me?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Reach out today, and let&apos explore how we can grow
+          Reach out today, and let&apos;s explore how we can grow
         </p>
-        <a href="mailto:work.aaron0320@gmail.com">
+        <a href="https://wa.me/193410320">
           <MagicButton
-            title="Let's get in touch"
+            title="Contact Me with WhatsApp"
             icon={<FaLocationArrow />}
             position="right"
           />
