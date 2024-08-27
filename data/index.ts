@@ -75,7 +75,7 @@ export const projects = [
     title: "FYP: Grievance Management System",
     des: "This project was developed in collaboration with my teammates, Mr. Foo and Mr. Teo, utilizing Flutter, Laravel, Tailwind, and other technologies.",
     img: "/Portfolio/p1.svg",
-    iconLists: ["/flutter.svg", "/laravel.svg", "/tail.svg"],
+    iconLists: ["/Portfolio/flutter.svg", "/Portfolio/laravel.svg", "/Portfolio/tail.svg"],
     url: "https://github.com/AaaaaaaaaronL",
   },
   {
