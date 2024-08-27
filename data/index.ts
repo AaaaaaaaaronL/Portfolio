@@ -162,45 +162,45 @@ export const workExperience = [
     title: "Customer Service Representative",
     desc: "I initially handled cases in Taiwan and later upgraded to handle cases for the UK and Ireland.",
     className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    thumbnail: "/Portfolio/exp1.svg",
   },
   {
     id: 2,
     title: "Part-time Tuition Teacher",
     desc: "I'm responsible for assisting students with their homework and organizing activities.",
     className: "md:col-span-2", 
-    thumbnail: "/exp2.svg",
+    thumbnail: "/Portfolio/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance Web Dev Project",
     desc: "I am collaborating with my partner, Mr. Foo, on a web-based project",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    thumbnail: "/Portfolio/exp3.svg",
   },
   {
     id: 4,
     title: "Student",
     desc: "Continue learning throughout life and try to improve myself.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
+    thumbnail: "/Portfolio/exp4.svg",
   },
 ];
 
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
+    img: "/Portfolio/git.svg",
     url: "https://github.com/AaaaaaaaaronL"
   },
   {
     id: 2,
-    img: "/facebook.svg",
+    img: "/Portfolio/facebook.svg",
     url: "https://www.facebook.com/profile.php?id=100026114171105"
   },
   {
     id: 3,
-    img: "/link.svg",
+    img: "/Portfolio/link.svg",
     url:"https://www.linkedin.com/in/chun-kiat-lwi-058308287/"
   },
 ];
