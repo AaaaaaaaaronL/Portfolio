@@ -2,15 +2,16 @@
 
 import React from "react";
 
-import { companies, achievement } from "@/data";
+import { achievement } from "@/data";
+//companies
 import { InfiniteMovingCards } from "./ui/InfiniteCards";
 
 const Clients = () => {
   return (
     <section id="achievement" className="py-20">
       <h1 className="heading">
-        Milestones of
-        <span className="text-purple"> My Achievement</span>
+        Key Personal 
+        <span className="text-purple"> Attributes</span>
       </h1>
 
       <div className="flex flex-col items-center max-lg:mt-10">
@@ -25,7 +26,7 @@ const Clients = () => {
           />
         </div>
 
-        <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+        {/* <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
           {companies.map((company) => (
             <React.Fragment key={company.id}>
               <div className="flex md:max-w-60 max-w-32 gap-2">
@@ -43,7 +44,7 @@ const Clients = () => {
               </div>
             </React.Fragment>
           ))}
-        </div>
+        </div> */}
       </div>
     </section>
   );

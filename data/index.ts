@@ -107,58 +107,54 @@ export const projects = [
 export const achievement = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "My analytical skills are well-developed, as evidenced by my consistent academic performance in accounting, where I maintained an average of over 80% and ranked among the top three in my secondary school. Additionally, my love for hands-on crafts, such as puzzles and model-making, further showcases my meticulous nature and ability to focus on intricate details.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "I excel at conveying my thoughts and intentions clearly, which has been further enhanced by my experience working in a customer service center. This role taught me the importance of empathy, patience, and effective communication in resolving issues and delivering exceptional service.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "I excel at conveying my thoughts and intentions clearly, which has been further enhanced by my experience working in a customer service center. This role taught me the importance of empathy, patience, and effective communication in resolving issues and delivering exceptional service.",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-  },
-  {
-    quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "My analytical skills are well-developed, as evidenced by my consistent academic performance in accounting, where I maintained an average of over 80% and ranked among the top three in my school. Additionally, my love for hands-on crafts, such as puzzles and model-making, further showcases my meticulous nature and ability to focus on intricate details.",
   },
 ];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
+// export const companies = [
+//   {
+//     id: 1,
+//     name: "cloudinary",
+//     img: "/cloud.svg",
+//     nameImg: "/cloudName.svg",
+//   },
+//   {
+//     id: 2,
+//     name: "appwrite",
+//     img: "/app.svg",
+//     nameImg: "/appName.svg",
+//   },
+//   {
+//     id: 3,
+//     name: "HOSTINGER",
+//     img: "/host.svg",
+//     nameImg: "/hostName.svg",
+//   },
+//   {
+//     id: 4,
+//     name: "stream",
+//     img: "/s.svg",
+//     nameImg: "/streamName.svg",
+//   },
+//   {
+//     id: 5,
+//     name: "docker.",
+//     img: "/dock.svg",
+//     nameImg: "/dockerName.svg",
+//   },
+// ];
 
 export const workExperience = [
   {
